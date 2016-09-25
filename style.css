@@ -4796,7 +4796,7 @@ noUi-target,
 	height:24px;
 	background-color:transparent;
 	background-repeat: no-repeat;
-	background-image: url('../images/sprites/sprite.png');
+	background-image: url('https://cdn.rawgit.com/AmanesWinata/Image/master/iconsprite.png');
 	margin-right: 5px;
 	vertical-align: middle;
 }
